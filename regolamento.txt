@@ -1,0 +1,15 @@
+Nella sezione BANDIERE puoi gestire il tuo inventario
+cancellando quelle che non desideri oppure creandone
+di nuove fino ad un massimo di 40.
+Nella sezione GIOCA puoi affrontare ben 4 modalita'
+diverse, ma lo scopo del gioco e' sempre lo stesso:
+scopri tutte le bandiere premendo su quelle
+coperte, quando trovi una coppia, questa rimane
+scoperta. Attento al tempo che decresce, se scade
+e le bandiere non sono tutte scoperte hai perso!
+
+BONUS:
+Quando vengono scoperte due coppie di bandiere
+consecutive, il gioco ti ricompensera' con 5
+secondi di bonus (il bonus rimarra' attivo fino
+al primo errore dopo l'attivazione).
